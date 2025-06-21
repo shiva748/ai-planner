@@ -1,0 +1,9 @@
+1. Get all invoices for June, summarize them, and email the summary to 'ceo@example.com'.
+
+2. Find all projects for user 'user-123', then for each project, list the tasks.
+
+3. Get the latest news about 'artificial intelligence', translate the headlines to Spanish, and send them as an SMS to '+15551234567'.
+
+4. Create a new project called 'Q3 Marketing Campaign' for user 'user-456', add tasks 'Design creative assets' and 'Launch social media ads', and then set a deadline of '2024-09-30' for the 'Launch social media ads' task.
+
+5. Search for documents containing the keyword 'financial report', download the first document found, and then generate a 'PDF' report from its content. 
